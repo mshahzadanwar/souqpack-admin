@@ -1,0 +1,13 @@
+{
+    "require": {
+        "mpdf/mpdf": "^8.0",
+        "twilio/sdk": "^5.42",
+        "kreait/firebase-php": "^1.2",
+        "alymosul/exponent-server-sdk-php": "^1.2"
+    },
+    "config": {
+        "platform": {
+            "php": "7.4.3"
+        }
+    }
+}
