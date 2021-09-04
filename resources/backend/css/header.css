@@ -1,0 +1,54 @@
+.card .card-header {
+        background-color: #fb9678 !important;
+    }
+
+    .footer {
+        margin-left: 0px;
+    }
+
+    .nopad {
+        padding: 0px !important;
+    }
+
+    .page-titles {
+        margin-top: 20px !important;
+    }
+
+    .easy,
+    .form-group {
+        float: left;
+        width: 100%;
+    }
+
+    .filter_by {
+        float: right;
+        clear: both;
+        display: flex;
+        width: 100%;
+        flex-direction: inherit;
+        justify-content: flex-end;
+        margin-bottom: 12px;
+        align-items: flex-end;
+    }
+
+    .card {
+        clear: both;
+    }
+
+    .filter_by label {
+        float: right;
+        margin-right: 20px;
+    }
+
+    .filter_by span {
+        float: right;
+    }
+
+    .table-responsive {
+        margin-top: 0 !important;
+    }
+
+    .card-title {
+        text-transform: uppercase;
+        font-weight: bold;
+    }

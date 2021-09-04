@@ -1,0 +1,1 @@
+1=Pending;2=Assigned;3=Review;4=Sent To User;5=Revision;6=Cancelled;7=Accepted;8=Update Needed;9=Send To Production;10=Completed;11=Rejected By Production;12=Pending Down Payment;Pending Final Payments;
